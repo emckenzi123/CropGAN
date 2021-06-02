@@ -23,5 +23,5 @@ Run the file "cropgan.py" with the Training option set to False. Fill in other a
 -You should set all voxels outside the body contour to be -1024 HU in the dicoms prior to preprocessing with the preprocess_dicoms.py file
 
 *Citations*
-If you use any part of this work in your research, please cite: <manuscript citation>
+If you use any part of this work in your research, please cite: Citation Forthcoming....
 
