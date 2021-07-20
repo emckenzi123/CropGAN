@@ -23,5 +23,5 @@ Run the file "cropgan.py" with the Training option set to False. Fill in other a
 -You should set all voxels outside the body contour to be -1024 HU in the dicoms prior to preprocessing with the preprocess_dicoms.py file
 
 *Citations*
-If you use any part of this work in your research, please cite: Citation Forthcoming....
+If you use any part of this work in your research, please cite: McKenzie, EM, Tong, N, Ruan, D, Cao, M, Chin, RK, Sheng, K. Using neural networks to extend cropped medical images for deformable registration among images with differing scan extents. Med. Phys. 2021; 00: 1– 13. https://doi.org/10.1002/mp.15039
 
